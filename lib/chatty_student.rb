@@ -10,4 +10,5 @@ class ChattyStudent < Student
     super
     "Pick me!".times do 10
   end
+  end
 end
